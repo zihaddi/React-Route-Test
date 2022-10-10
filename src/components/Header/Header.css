@@ -1,0 +1,35 @@
+.header-design
+{
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.header-design li 
+{
+  margin: 8px;
+  list-style-type: none;
+  padding: 2px;
+  text-decoration: none;
+}
+
+
+
+.header-design li:hover
+{
+  background-color: aqua;
+  padding: 2px;
+  border-radius: 5px;
+}
+
+.textDec
+{
+  text-decoration: none;
+}
+
+.active
+{
+  background-color: blueviolet;
+ 
+}
